@@ -1,0 +1,16 @@
+.h1main{
+    color: white;
+    background-color: black;
+   
+    text-align: center;
+}
+.foodmain{
+    color: white;
+    background-color: black;
+   font-size: 18px;
+    text-align: center;
+}
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+    
