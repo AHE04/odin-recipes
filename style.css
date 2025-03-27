@@ -1,3 +1,12 @@
+* {
+background-color: pink;
+box-sizing: border-box;
+font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
 h1, h2 , h3{
     color: white;
     background-color: black;
@@ -10,8 +19,24 @@ p{
    font-size: 18px;
     text-align: center;
 }
-* {
-    
+.h1main{
+    background-color: aqua;
+    color: black;
+    height: auto;
+    width: 300px;
+    padding: 30px;
+    margin-left: 500px;
+    margin-bottom: 40px;
+    border: 2px solid red;
+}
+.foodmain{
+    background-color: aqua;
+    color: black;
+    font-size: 21px;
+    width: 300px;
+    padding: 30px;
+    margin-left: 500px;
+    margin-bottom: 40px;
 }
     
 li{
@@ -20,9 +45,7 @@ li{
    font-size: 18px;
     text-align: center;
 }
-*{
-    font-family: 'Times New Roman', Times, serif;
-}
+
 .centerpic{
     display: block;
   margin-left: auto;
